@@ -1,3 +1,4 @@
 [submodule "src"]
 	path = src
 	url = https://github.com/lwfinger/rtw88.git
+	branch = master
